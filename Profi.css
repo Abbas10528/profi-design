@@ -1,0 +1,88 @@
+.bg-success
+{
+    background-color: #3db36b!important;
+}
+a.nav-link
+{
+    font-size: 12px!important;
+    font-family: sans-serif!important;
+    font-weight: 700!important;
+    letter-spacing: 1.5px!important;
+}
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #16181b;
+    text-decoration: none;
+    background: #5cc786;
+}
+.navbar-brand {
+    display: inline-block;
+    margin-right: 1rem;
+    font-size: 1.875rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    position: relative;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    color: black;
+}
+.navbar-nav .nav-link
+{
+    padding: 1.50rem 0;
+}
+.navbar .nav-link {
+    transition: all .2s ease-in-out;
+    outline: 0;
+}
+.navbar .nav-link:hover{
+    color: #3db36b!important;
+}
+.bg-white-90 {
+    background-color: rgba(255,255,255,.9)!important;
+}
+@media screen and (min-width: 992px) {
+    .navbar .nav-link:hover{
+        color: #3db36b!important;
+        border-bottom: 1px solid #5cc786;
+    }
+    .navbar-nav .nav-link
+    {
+        padding: 1.68rem 0;
+    }
+  }
+@media (min-width: 992px){
+.lh-lg-12 {
+    line-height: 5rem!important;
+}
+}
+@media (min-width: 992px){
+.fs-lg-11 {
+    font-size: 4.375rem!important;
+}
+}
+.btn-outline-success
+{
+    color: #3db36b!important;
+}
+.btn-outline-success:hover {
+    color: #fff!important;
+    background-color: #3db36b!important;
+    border-color: #3db36b!important;
+}
+.btn {
+    font-family: Arimo,sans-serif!important;
+    font-weight: 700!important;
+    color: #212529;
+    padding: 0.9375rem 1.625rem!important;
+    font-size: 1rem!important;
+    border-radius: 0.25rem!important;
+}
+figure:hover
+{
+    margin-top: -3px;
+}
+.btn-link-success:hover
+{
+    color: #3db36b;
+}
