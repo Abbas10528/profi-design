@@ -1,0 +1,148 @@
+.nav-item a
+{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.664)!important;
+}
+.nav-item a:hover
+{
+    color: rgba(0, 0, 255, 0.774)!important;
+
+}
+h1
+{
+    font-family: serif;
+}
+.lead
+{
+    font-size:x-large!important;
+    font-weight: 400!important;
+}
+.link 
+{
+    border-bottom: 2px solid #0163ee;
+    color: #343a40;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-bottom: 2px;
+}
+.link:hover
+{
+    text-decoration: none;
+}
+.img-anim:hover
+{
+    margin-top: -15px;
+    border-radius: 0px 0px 20px rgb(54, 51, 51);
+}
+.img-anim {
+    transition: all .2s ease-in-out;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+}
+.icon-primary
+{
+    background-color: rgba(1,99,238,.1);
+    color: #0163ee;
+}
+.icon
+{
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 1.5rem;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color .2s ease-in-out;
+    width: 3rem;
+    height: 3rem;
+}
+.icon-inner
+{
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+h3
+{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: "Merriweather",serif;
+    font-weight: 700;
+    line-height: 1.3;
+}
+.p1
+{
+    font-size: larger;
+    font-weight: 500;
+}
+.divider
+{
+    border-bottom: 2px solid #0163ee;
+    margin-bottom: 1rem;
+    width: 3rem;
+}
+.box-shadow
+{
+    box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.212);
+}
+.accordion-button
+{
+    color: rgba(0, 0, 0, 0.747);
+}
+.accordion-button:hover
+{
+    text-decoration: none;
+    color: #0163ee!important;
+}
+.accordion-button:hover {
+    background-color: #cfdcf1;
+}
+.link-secondary {
+    color: #656e79 !important;
+}
+.border-top
+{
+    border-color: #656e79;
+}
+.icon-secondary {
+    background-color: rgba(101,110,121,.1);
+    color: #656e79 !important;
+}
+.icon-secondary:hover {
+    background-color: #656e79 ;
+    color:white !important;
+}
+.icon {
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 1.5rem;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color .2s ease-in-out;
+    width: 3rem;
+    height: 3rem;
+}
+.accordion-button
+{
+    background-color: white;
+    color: black;
+}
+.accordion-button:hover
+{
+    background-color: #e6effd!important;
+    color: #0159d6!important;
+}
+.collapse-btn
+{
+    color: black;
+    font-size: 1.50rem !important;
+    font-weight: 600 !important;
+}
+.collapse-btn:focus
+{
+    outline: 0;
+    box-shadow: none;
+    text-decoration: none;
+}
